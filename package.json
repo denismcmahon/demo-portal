@@ -1,0 +1,49 @@
+{
+  "name": "is_demo_portal",
+  "version": "1.0.0",
+  "description": "IS Demo Portal",
+  "main": "server.js",
+  "scripts": {
+    "start": "npm run server",
+    "concurrent": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "nodemon server.js --ignore client",
+    "client": "npm start --prefix client",
+    "build": "npm run build --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.interactiveservices.com:internalprojects/IS_Demo_Portal.git"
+  },
+  "author": "Denis McMahon",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.7.2",
+    "@material-ui/icons": "^4.5.1",
+    "bcryptjs": "^2.4.3",
+    "concurrently": "^4.1.0",
+    "config": "^3.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express": "^4.16.4",
+    "fs-extra": "^8.1.0",
+    "is-empty": "^1.2.0",
+    "jquery": "^3.4.1",
+    "jsonwebtoken": "^8.5.0",
+    "lodash": "^4.17.11",
+    "mkdirp-then": "^1.2.0",
+    "mongoose": "^5.4.16",
+    "multer": "^1.4.1",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "path": "^0.12.7",
+    "postmark": "^2.3.4",
+    "rimraf": "^2.6.3",
+    "unzipper": "^0.9.15",
+    "uuid": "^3.3.2",
+    "validator": "^10.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}

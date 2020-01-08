@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Chameleon Gold",
+        "sites": [
+            { "title":"CG Sample 1: BlackRock BR_08", "img": "thumbnails/chameleon/cg_sample_1.jpg", "link": "demos/chameleon/CG_Sample_1/index.html" },
+            { "title":"CG Sample 2: Centene CT_01m1", "img": "thumbnails/chameleon/cg_sample_2.jpg", "link": "demos/chameleon/CG_Sample_2/index.html" },
+            { "title":"CG Sample 3: Sunlife SN_08", "img": "thumbnails/chameleon/cg_sample_3.jpg", "link": "demos/chameleon/CG_Sample_3/index.html" },
+            { "title":"CG Sample 4: Bloomberg", "img": "thumbnails/chameleon/cg_sample_4.jpg", "link": "demos/chameleon/CG_Sample_4/index.html" },
+            { "title":"Full CG Sampler", "img": "thumbnails/chameleon/full_cg_sampler.jpg", "link": "demos/chameleon/Full_CG_Sampler/index.html" },
+            { "title":"Profiler Sample", "img": "thumbnails/chameleon/profiler_sample.jpg", "link": "demos/chameleon/Profiler_Sample/index.html" },
+            { "title":"Test Down Sample", "img": "thumbnails/chameleon/test_down_sample.jpg", "link": "demos/chameleon/Test_Down_Sample/index.html" },
+            { "title":"Menu 1", "img": "thumbnails/chameleon/menu_sample_1.jpg", "link": "demos/chameleon/Menu_1/index.html" },
+            { "title":"Menu 2", "img": "thumbnails/chameleon/menu_sample_2.jpg", "link": "demos/chameleon/Menu_2/index.html" },
+            { "title":"Menu 3", "img": "thumbnails/chameleon/menu_sample_3.jpg", "link": "demos/chameleon/Menu_3/index.html" }
+        ]
+    },
+    {
+        "name": "eBooks",
+        "sites": [
+            { "title":"eBook Sample 1", "img": "thumbnails/ebook/ebook_sample_1.jpg", "link": "demos/ebook/ebook_sample_1.pdf" },
+            { "title":"eBook Sample 2", "img": "thumbnails/ebook/ebook_sample_2.jpg", "link": "demos/ebook/ebook_sample_2.pdf" },
+            { "title":"eBook Sample 3", "img": "thumbnails/ebook/ebook_sample_3.jpg", "link": "demos/ebook/ebook_sample_3.pdf" },
+            { "title":"eBook Sample 4", "img": "thumbnails/ebook/ebook_sample_4.jpg", "link": "demos/ebook/ebook_sample_4.pdf" },
+            { "title":"eBook Sample 5", "img": "thumbnails/ebook/ebook_sample_5.jpg", "link": "demos/ebook/ebook_sample_5.pdf" }
+        ]
+    },
+    {
+        "name": "Gamification",
+        "sites": [
+            { "title":"Gamification Sample 1", "img": "thumbnails/gamification/gamification_sample_1.jpg", "link": "demos/gamification/Gamification_Sample_1/index.htm" },
+            { "title":"Gamification Sample 2", "img": "thumbnails/gamification/gamification_sample_2.jpg", "link": "demos/gamification/Gamification_Sample_2/index.html" },
+            { "title":"Gamification Sample 3", "img": "thumbnails/gamification/gamification_sample_3.jpg", "link": "demos/gamification/Gamification_Sample_3/index.html" },
+            { "title":"Gamification Sample 4", "img": "thumbnails/gamification/gamification_sample_4.jpg", "link": "demos/gamification/Gamification_Sample_4/index.html" },
+            { "title":"Gamification Sample 5", "img": "thumbnails/gamification/gamification_sample_5.jpg", "link": "demos/gamification/gamification_sample_5/index.html" }
+        ]
+    },
+    {
+        "name": "Storyline",
+        "sites": [
+            { "title":"Storyline Sample 1", "img": "thumbnails/storyline/storyline_sampler_1.jpg", "link": "demos/storyline/storyline_sampler_1/story.html" },
+            { "title":"Storyline Sample 2", "img": "thumbnails/storyline/storyline_sampler_2.jpg", "link": "demos/storyline/storyline_sampler_2/story.html" },
+            { "title":"Storyline Sample 3", "img": "thumbnails/storyline/storyline_sampler_3.jpg", "link": "demos/storyline/storyline_sampler_3/story.html" },
+            { "title":"Storyline Sample 4", "img": "thumbnails/storyline/storyline_sampler_4.jpg", "link": "demos/storyline/storyline_sampler_4/story_html5.html" }
+        ]
+    },
+    {
+        "name": "Adapt",
+        "sites": [
+            { "title":"Coming soon", "img": "thumbnails/thumb_001.jpg", "link": "https://www.interactiveservices.com" }
+        ]
+    },
+    {
+        "name": "ILT",
+        "sites": [
+            { "title":"Facilitator Guide Samples: Word Format", "img": "thumbnails/ilt/ilt_sample_1.jpg", "link": "demos/ilt/Facilitator_Guide_Samples_Word_Format.docx" },
+            { "title":"Facilitator Guide Samples: InDesign Format", "img": "thumbnails/ilt/ilt_sample_2.jpg", "link": "demos/ilt/facilitator_guide_samples_indesign_format.pdf" },
+            { "title":"Participant Guide Samples: Word Format", "img": "thumbnails/ilt/ilt_sample_3.jpg", "link": "demos/ilt/Participant_Guide_Samples_Word_Format.docx" },
+            { "title":"Participant Guide Samples: eBook Format #1", "img": "thumbnails/ilt/ilt_sample_4.jpg", "link": "demos/ilt/Participant_Guide_Samples_eBook_Format_1.pdf" },
+            { "title":"Participant Guide Samples: eBook Format #2", "img": "thumbnails/ilt/ilt_sample_5.jpg", "link": "demos/ilt/Participant_Guide_Samples_eBook_Format_2.pdf" },
+            { "title":"Classroom Slides Sample #1", "img": "thumbnails/ilt/ilt_sample_6.jpg", "link": "demos/ilt/Classroom_Slides_Sample_1.pptx" },
+            { "title":"Classroom Slides Sample #2", "img": "thumbnails/ilt/ilt_sample_7.jpg", "link": "demos/ilt/Classroom_Slides_Sample_2.pptx" },
+            { "title":"vILT Sample", "img": "thumbnails/ilt/ilt_sample_8.jpg", "link": "demos/ilt/vilt_sample.pptx" }
+        ]
+    },
+    {
+        "name": "Infographics & Job Aids",
+        "sites": [
+            { "title":"Infographics & Job Sample 1", "img": "thumbnails/info_job_aids/infographic_sample_1.jpg", "link": "demos/info_job_aids/info_job_aids_sample_1.pdf" },
+            { "title":"Infographics & Job Sample 2", "img": "thumbnails/info_job_aids/infographic_sample_2.jpg", "link": "demos/info_job_aids/info_job_aids_sample_2.jpg" },
+            { "title":"Infographics & Job Sample 3", "img": "thumbnails/info_job_aids/infographic_sample_3.jpg", "link": "demos/info_job_aids/info_job_aids_sample_3.pdf" }
+        ]
+    },
+    {
+        "name": "Analysis & Consultancy",
+        "sites": [
+            { "title":"Analysis Sample 1", "img": "thumbnails/analysis_consultancy/analysis_sample_1.jpg", "link": "demos/analysis_consultancy/analysis_sample_1.pptx" },
+            { "title":"Analysis Sample 2", "img": "thumbnails/analysis_consultancy/analysis_sample_2.jpg", "link": "demos/analysis_consultancy/analysis_sample_2.pptx" },
+            { "title":"Analysis Sample 3", "img": "thumbnails/analysis_consultancy/analysis_sample_3.jpg", "link": "demos/analysis_consultancy/analysis_sample_3.pptx" },
+            { "title":"Analysis Sample 4", "img": "thumbnails/analysis_consultancy/analysis_sample_4.jpg", "link": "demos/analysis_consultancy/analysis_sample_4.pptx" }
+        ]
+    },
+    {
+        "name": "Animations",
+        "sites": [
+            { "title":"Animation Sample 1: After Effects Templates", "img": "thumbnails/animations/animation_sample_1.jpg", "link": "https://vimeopro.com/user17618017/is-level-1-videos" },
+            { "title":"Animation Sample 2: Kinetic Text", "img": "thumbnails/animations/animation_sample_2.jpg", "link": "https://vimeopro.com/user17618017/is-level-15-videos" },
+            { "title":"Animation Sample 3: Adobe Animate", "img": "thumbnails/animations/animation_sample_3.jpg", "link": "https://vimeopro.com/user17618017/adobe-animate-samples-level-1/video/240815776" },
+            { "title":"Animation Sample 4: Adobe Animate Advanced", "img": "thumbnails/animations/animation_sample_4.jpg", "link": "https://vimeopro.com/user17618017/adobe-animate-samples-level-2/video/240632648" },
+            { "title":"Animation Sample 5: Post Production", "img": "thumbnails/animations/animation_sample_5.jpg", "link": "https://vimeopro.com/user17618017/level-2-videos" },
+            { "title":"Animation Sample 6: Partial Animation", "img": "thumbnails/animations/animation_sample_6.jpg", "link": "https://vimeopro.com/user17618017/is-level-25-videos" },
+            { "title":"Animation Sample 7: Full Animation", "img": "thumbnails/animations/animation_sample_7.jpg", "link": "https://vimeopro.com/user17618017/is-level-3-videos" },
+            { "title":"Animation Sample 8: Advanced Animation", "img": "thumbnails/animations/animation_sample_8.jpg", "link": "https://vimeopro.com/user17618017/is-level-4-videos" }
+        ]
+    },
+    {
+        "name": "Video",
+        "sites": [
+            { "title":"Video Sample 1: Green Screen", "img": "thumbnails/videos/video_sample_1.jpg", "link": "https://vimeo.com/user17618017/review/207609048/ba3c19e968" },
+            { "title":"Video Sample 2: Leader Video", "img": "thumbnails/videos/video_sample_2.jpg", "link": "https://vimeopro.com/user17618017/level-2-videos/video/154702209" },
+            { "title":"Video Sample 3: Client Provided", "img": "thumbnails/videos/video_sample_3.jpg", "link": "https://vimeopro.com/user17618017/is-level-25-videos/video/154702069" }
+        ]
+    }
+]
+

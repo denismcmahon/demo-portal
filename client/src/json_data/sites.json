@@ -1,0 +1,129 @@
+[
+    {
+        "name": "Chameleon Gold",
+        "sites": [
+            { "title":"Chameleon Gold", "img": "thumbnails/chameleon/chameleon_gold.jpg", "link": "demos/chameleon/chameleon_gold/index.html" },
+            { "title":"Client Sample", "img": "thumbnails/chameleon/client_sample_br08.jpg", "link": "demos/chameleon/client_sample_br08/index.html" },
+            { "title":"Client Sample", "img": "thumbnails/chameleon/client_sample_ct01.jpg", "link": "demos/chameleon/client_sample_ct01/index.html" },
+            { "title":"Client Sample", "img": "thumbnails/chameleon/client_sample_bd02.jpg", "link": "demos/chameleon/client_sample_bd02/index.html" },
+            { "title":"Test Down", "img": "thumbnails/chameleon/test_down.jpg", "link": "demos/chameleon/test_down/index.html" },
+            { "title":"Profiler", "img": "thumbnails/chameleon/profiler.jpg", "link": "demos/chameleon/profiler/index.html" },
+            { "title":"Menu 1", "img": "thumbnails/chameleon/menu_1.jpg", "link": "demos/chameleon/menu_1/index.html" },
+            { "title":"Menu 2", "img": "thumbnails/chameleon/menu_2.jpg", "link": "demos/chameleon/menu_2/index.html" },
+            { "title":"Menu 3", "img": "thumbnails/chameleon/menu_3.jpg", "link": "demos/chameleon/menu_3/index.html" },
+            { "title":"Gamified Scenario - Coming Soon", "img": "thumbnails/coming_soon.jpg", "link": "https://interactiveservices.com/" },
+            { "title":"Menu Journey - Coming Soon", "img": "thumbnails/coming_soon.jpg", "link": "https://interactiveservices.com/" },
+            { "title":"Scenario Branching - Coming Soon", "img": "thumbnails/coming_soon.jpg", "link": "https://interactiveservices.com/" },
+            { "title":"System Sim", "img": "thumbnails/chameleon/system_sim.jpg", "link": "demos/chameleon/system_sim/index.html" }
+        ]
+    },
+    {
+        "name": "Animation",
+        "sites": [
+            { "title":"After Effects", "img": "thumbnails/animations/after_effects.jpg", "link": "https://vimeopro.com/user17618017/is-level-1-videos" },
+            { "title":"Adobe Animate", "img": "thumbnails/animations/adobe_animate.jpg", "link": "https://vimeopro.com/user17618017/adobe-animate-samples-level-1/video/240815776" },
+            { "title":"Adobe Animate Advanced", "img": "thumbnails/animations/adobe_animate_advanced.jpg", "link": "https://vimeopro.com/user17618017/adobe-animate-samples-level-2/video/240632648" },
+            { "title":"Kinetic Text", "img": "thumbnails/animations/kinetic_text.jpg", "link": "https://vimeopro.com/user17618017/is-level-15-videos" },
+            { "title":"Post Production", "img": "thumbnails/animations/post_production.jpg", "link": "https://vimeopro.com/user17618017/level-2-videos" },
+            { "title":"Partial Animation", "img": "thumbnails/animations/partial_animation.jpg", "link": "https://vimeopro.com/user17618017/is-level-25-videos" },
+            { "title":"Full Animation", "img": "thumbnails/animations/full_animation.jpg", "link": "https://vimeopro.com/user17618017/is-level-3-videos" },
+            { "title":"Advanced Animation", "img": "thumbnails/animations/advanced_animation.jpg", "link": "https://vimeopro.com/user17618017/is-level-4-videos" }
+        ]
+    },
+    {
+        "name": "Video",
+        "sites": [
+            { "title":"Interactive Video", "img": "thumbnails/videos/interactive_video.jpg", "link": "demos/video/interactive_video/index.html" },
+            { "title":"Green Screen", "img": "thumbnails/videos/green_screen.jpg", "link": "https://vimeo.com/user17618017/review/331990576/e2f848559d" },
+            { "title":"Leadership", "img": "thumbnails/videos/leadership.jpg", "link": "https://vimeo.com/user17618017/review/260456705/311ac888ba" },
+            { "title":"Client Provided", "img": "thumbnails/videos/client_provided.jpg", "link": "https://vimeo.com/user17618017/review/154702069/b486a953b7" },
+            { "title":"Scenario", "img": "thumbnails/videos/scenario.jpg", "link": "https://vimeo.com/user17618017/review/312968751/676a6cff8c" }
+        ]
+    },
+    {
+        "name": "Bespoke Gamification",
+        "sites": [
+            { "title":"World Navigator", "img": "thumbnails/bespoke_gamification/world_navigator.jpg", "link": "demos/bespoke_gamification/world_navigator/index.html" },
+            { "title":"Workplace Simulation 1", "img": "thumbnails/bespoke_gamification/workplace_simulation_1.jpg", "link": "demos/bespoke_gamification/workplace_simulation_1/index.html" },
+            { "title":"Workplace Simulation 2", "img": "thumbnails/bespoke_gamification/workplace_simulation_2.jpg", "link": "demos/bespoke_gamification/workplace_simulation_2/index.htm" },
+            { "title":"Journey", "img": "thumbnails/bespoke_gamification/journey.jpg", "link": "demos/bespoke_gamification/journey/index.html" },
+            { "title":"Tool Practice", "img": "thumbnails/bespoke_gamification/tool_practice.jpg", "link": "demos/bespoke_gamification/tool_practice/index.html" },
+            { "title":"Quiz Game", "img": "thumbnails/bespoke_gamification/quiz_game.jpg", "link": "demos/bespoke_gamification/quiz_game/index.html" }
+        ]
+    },
+    {
+        "name": "Interactive Infographic",
+        "sites": [
+            { "title":"Client Sample", "img": "thumbnails/interactive_infographics/client_sample_fc04.jpg", "link": "demos/interactive_infographics/client_sample_fc04/full/index.html" },
+            { "title":"Client Sample", "img": "thumbnails/interactive_infographics/client_sample_cc09.jpg", "link": "demos/interactive_infographics/client_sample_cc09/full/index.html" },
+            { "title":"Client Sample", "img": "thumbnails/interactive_infographics/client_sample_bd01.jpg", "link": "demos/interactive_infographics/client_sample_bd01/index.html" }
+        ]
+    },
+    {
+        "name": "eBooks",
+        "sites": [
+            { "title":"Client Sample", "img": "thumbnails/ebook/client_sample_ca05.jpg", "link": "demos/ebook/client_sample_ca05.pdf" },
+            { "title":"Client Sample", "img": "thumbnails/ebook/client_sample_cc09.jpg", "link": "demos/ebook/client_sample_cc09.pdf" },
+            { "title":"Client Sample", "img": "thumbnails/ebook/client_sample_sp05.jpg", "link": "demos/ebook/client_sample_sp05.pdf" },
+            { "title":"Client Sample", "img": "thumbnails/ebook/client_sample_hy06.jpg", "link": "demos/ebook/client_sample_hy06.pdf" },
+            { "title":"Client Sample", "img": "thumbnails/ebook/client_sample_ad25.jpg", "link": "demos/ebook/client_sample_ad25.pdf" }
+        ]
+    },
+    {
+        "name": "Adapt",
+        "sites": [
+            { "title":"Client Sample", "img": "thumbnails/adapt/client_sample_wm9044.jpg", "link": "demos/adapt/client_sample_wm9044/index.html" },
+            { "title":"Client Sample", "img": "thumbnails/adapt/client_sample_fc04.jpg", "link": "demos/adapt/client_sample_fc04/index.html" },
+            { "title":"Client Sample", "img": "thumbnails/adapt/client_sample_co01.jpg", "link": "demos/adapt/client_sample_co01/index.html" }
+        ]
+    },
+    {
+        "name": "Storyline",
+        "sites": [
+            { "title":"Storyline Sampler", "img": "thumbnails/storyline/storyline_sampler.jpg", "link": "demos/storyline/storyline_sampler/story.html" },
+            { "title":"Client Sample", "img": "thumbnails/storyline/client_sample_hy02.jpg", "link": "demos/storyline/client_sample_hy02/story.html" },
+            { "title":"Client Sample", "img": "thumbnails/storyline/client_sample_fn04.jpg", "link": "demos/storyline/client_sample_fn04/story.html" },
+            { "title":"Client Sample", "img": "thumbnails/storyline/client_sample_sp05.jpg", "link": "demos/storyline/client_sample_sp05/story_html5.html" }
+        ]
+    },
+    {
+        "name": "ILT",
+        "sites": [
+            { "title":"Facilitator Guide: Word", "img": "thumbnails/ilt/facilitator_guide_word.jpg", "link": "demos/ilt/facilitator_guide_word.docx" },
+            { "title":"Facilitator Guide: InDesign", "img": "thumbnails/ilt/facilitator_guide_indesign.jpg", "link": "demos/ilt/facilitator_guide_indesign.pdf" },
+            { "title":"Participant Guide: Word Format", "img": "thumbnails/ilt/participant_guide_word.jpg", "link": "demos/ilt/participant_guide_word.docx" },
+            { "title":"Participant Guide: eBook Format 1", "img": "thumbnails/ilt/participant_guide_ebook_format_1.jpg", "link": "demos/ilt/participant_guide_ebook_format_1.pdf" },
+            { "title":"Participant Guide: eBook Format #2", "img": "thumbnails/ilt/participant_guide_ebook_format_2.jpg", "link": "demos/ilt/participant_guide_ebook_format_2.pdf" },
+            { "title":"Classroom Slides Sample #1", "img": "thumbnails/ilt/classroom_slides_sample_1.jpg", "link": "demos/ilt/classroom_slides_sample_1.pptx" },
+            { "title":"Classroom Slides Sample #2", "img": "thumbnails/ilt/classroom_slides_sample_2.jpg", "link": "demos/ilt/classroom_slides_sample_2.pptx" },
+            { "title":"vILT Sample", "img": "thumbnails/ilt/vilt.jpg", "link": "demos/ilt/vilt.pptx" }
+        ]
+    },
+    {
+        "name": "Infographics & Job Aids",
+        "sites": [
+            { "title":"Infographic Client Sample", "img": "thumbnails/info_job_aids/infographic_client_sample_hd.jpg", "link": "demos/info_job_aids/infographic_client_sample_hd.pdf" },
+            { "title":"Infographic Client Sample", "img": "thumbnails/info_job_aids/infographic_client_sample_wm_mhd.jpg", "link": "demos/info_job_aids/infographic_client_sample_wm_mhd.jpg" },
+            { "title":"Infographic Client Sample", "img": "thumbnails/info_job_aids/infographic_client_sample_wm_wtw.jpg", "link": "demos/info_job_aids/infographic_client_sample_wm_wtw.pdf" },
+            { "title":"Infographic Client Sample", "img": "thumbnails/info_job_aids/infographic_client_sample_sl_mtc.jpg", "link": "demos/info_job_aids/infographic_client_sample_sl_mtc.pdf" },
+            { "title":"Infographic Client Sample", "img": "thumbnails/info_job_aids/jobaid_client_sample_wm434.jpg", "link": "demos/info_job_aids/jobaid_client_sample_wm434.pdf" },
+            { "title":"Infographic Client Sample", "img": "thumbnails/info_job_aids/jobaid_client_sample_hy01.jpg", "link": "demos/info_job_aids/jobaid_client_sample_hy01.pdf" }
+        ]
+    },
+    {
+        "name": "Analysis & Consultancy",
+        "sites": [
+            { "title":"Client Sample", "img": "thumbnails/analysis_consultancy/client_sample_sl.jpg", "link": "demos/analysis_consultancy/client_sample_sl.pptx" },
+            { "title":"Client Sample", "img": "thumbnails/analysis_consultancy/client_sample_ct.jpg", "link": "demos/analysis_consultancy/client_sample_ct.pptx" },
+            { "title":"Client Sample", "img": "thumbnails/analysis_consultancy/client_sample_ub48.jpg", "link": "demos/analysis_consultancy/client_sample_ub48.pptx" },
+            { "title":"Client Sample", "img": "thumbnails/analysis_consultancy/client_sample_cc.jpg", "link": "demos/analysis_consultancy/client_sample_cc.pptx" }
+        ]
+    },
+    {
+        "name": "Full System Simulation",
+        "sites": [
+            { "title":"Client Sample", "img": "thumbnails/system_simulation/client_sample_wm434.jpg", "link": "demos/system_simulation/client_sample_wm434/index.html" }
+        ]
+    }
+]
+
